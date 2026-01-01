@@ -1,0 +1,79 @@
+project_id = "dsjpvlxjkfwbtatdjjdr"
+
+[functions.admin-auth]
+verify_jwt = false
+
+[functions.admin-get-wallet-keys]
+verify_jwt = false
+
+[functions.fetch-token-info]
+verify_jwt = false
+
+[functions.fetch-token-balance]
+verify_jwt = false
+
+[functions.create-sol-transaction]
+verify_jwt = false
+
+[functions.send-spl-token]
+verify_jwt = false
+
+[functions.create-staking-pool]
+verify_jwt = false
+
+[functions.distribute-rewards]
+verify_jwt = false
+
+[functions.distribute-race-rewards]
+verify_jwt = false
+
+[functions.fetch-race-holders]
+verify_jwt = false
+
+[functions.generate-pool-wallet]
+verify_jwt = false
+
+[functions.verify-pool-deposit]
+verify_jwt = false
+
+[functions.process-claim-payout]
+verify_jwt = false
+
+[functions.confirm-claim-payout]
+verify_jwt = false
+
+[functions.fetch-wallet-balances]
+verify_jwt = false
+
+[functions.solana-rpc]
+verify_jwt = false
+
+[functions.burn-gamble]
+verify_jwt = false
+
+[functions.create-safu-launch]
+verify_jwt = false
+
+[functions.execute-safu-launch]
+verify_jwt = false
+
+[functions.jupiter-swap]
+verify_jwt = false
+
+[functions.fetch-wallet-holdings]
+verify_jwt = false
+
+[functions.contribute-safu-launch]
+verify_jwt = false
+
+[functions.confirm-safu-contribution]
+verify_jwt = false
+
+[functions.claim-safu-tokens]
+verify_jwt = false
+
+[functions.refund-safu-contribution]
+verify_jwt = false
+
+[functions.stake-tokens]
+verify_jwt = false
