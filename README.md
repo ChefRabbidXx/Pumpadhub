@@ -65,5 +65,5 @@ MIT License - see LICENSE file for details.
 ## Links
 
 - Website: [https://pumpad.fun](https://pumpad.fun)
-- Twitter: [@pumpad_sol](https://twitter.com/pumpad_sol)
-- Telegram: [t.me/pumpad](https://t.me/pumpad)
+- Twitter: https://x.com/pumpadfun
+- Telegram: [t.me/pumpad](https://t.me/pumpadchat)
